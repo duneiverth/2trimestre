@@ -2,7 +2,7 @@
     padding: 0;
     margin:0;
   }
-  .começo {
+  :começo {
         background-color: rgb(81, 136, 88);
         color: black;
         display: flex;
@@ -10,11 +10,11 @@
         align-items: center;
         padding: 24px 0;    
   }
-  .imagem-cabeçalho {
+  :imagem-cabeçalho {
           width: 15%;
           
   }
-  .item-um{
+  :item-um{
       display: inline-block;
       margin: 0 20px;
       font-size: 25px;
@@ -23,26 +23,26 @@
   
   }
   
-  .imagem-santo{
+  :imagem-santo{
            width: 35%;
            margin-left: 10%;
            
   }
   
-  .colegio{
+  :colegio{
           background-image: linear-gradient( rgb(81, 136, 88), white);
           display: flex;
           justify-content: center;
           align-items: center;
           padding: 20px 0; 
   }
-  .colegio-div{
+  :colegio-div{
     width: 25%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
  
 }
 
-.paragrafo{
+:paragrafo{
   padding: 20px 0;
 
 }
